@@ -22,3 +22,5 @@ allure serve allure-results
 
 
 ## Screenshots of the Allure Report
+![Rest_Assured_API_Automation_Allure_Report_1](https://user-images.githubusercontent.com/96170694/152241485-985b6b53-3da6-4ae8-b731-22fe1e4c6197.JPG)
+![Rest_Assured_API_Automation_Allure_Report_2](https://user-images.githubusercontent.com/96170694/152241495-dc4888d5-97f8-4abe-8d98-ea705f283150.JPG)
